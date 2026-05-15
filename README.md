@@ -25,6 +25,8 @@ This project documents how I successfully unbricked and installed **OpenWrt** on
 
 Remove the NAND chip adt 350-380 celcius and dump it using the XGecu T48 programmer.
 
+<img width="600" height="445" alt="image" src="https://github.com/user-attachments/assets/f0920362-a182-4b50-aa6c-9677e031d1b7" />
+
 ![Image](https://github.com/user-attachments/assets/62510006-f71a-4ed3-9516-42f700a1912d)
 
 ![Image](https://github.com/user-attachments/assets/24ab95c7-1b4e-4ebd-9b27-9a0964a11493)
